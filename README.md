@@ -1,2 +1,2 @@
 # mi-primer-repositorio
-Mi primer repositorio en GitHub pata el curso de freeCodeCamp
+Mi primer repositorio de GitHub para el curso de freeCodeCamp
